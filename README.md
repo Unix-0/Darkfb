@@ -1,3 +1,5 @@
-# Logger-X-Creator 2020
+pkg update && pkg upgrade
 
-How to use it, please check this video https://youtu.be/lJzUfWO1hQE
+pkg install python
+
+pkg install git
